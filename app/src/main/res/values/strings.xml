@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CoffeeshopApp</string>
+    <string name="Our_Menu">Our Menu is</string>
+    <string name="types_of_pizzas">Types of pizza</string>
+    <string name="Price_is">Price</string>
+    <string name="Quantity_is">Quantity</string>
+    <string name="Reduce_is">Reduce</string>
+    <string name="DELUXE_VEGGIE">DELUXE VEGGIE</string>
+    <string name="price_deluxe_is">99/-</string>
+    <string name="quantity_is">0</string>
+    <string name="button_sign">-</string>
+    <string name="paneer_makhani">PANEER MAKHANI</string>
+    <string name="price_paneer_is">110/-</string>
+    <string name="fresh_veggie">FRESH VEGGIE</string>
+    <string name="veggie_paradise">VEGGIE PARADISE</string>
+    <string name="price_paradise_is">115/-</string>
+    <string name="cNc_is">CHEESE N CORN</string>
+    <string name="nv_supreme">NON VEG SUPREME</string>
+    <string name="price_nv_supreme_is">199/-</string>
+    <string name="chicken_fiesta">CHICKEN FIESTA</string>
+    <string name="order_button">Order now</string>
+    <string name="back_button">back</string>
+    <string name="order_text">your order is...</string>
+    <string name="total_text">Total = </string>
+    <string name="initial_price_is">0</string>
+    <string name="price_sign">/-</string>
+</resources>
